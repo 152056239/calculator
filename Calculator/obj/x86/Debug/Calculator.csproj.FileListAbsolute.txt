@@ -1,0 +1,4 @@
+D:\All resource\C#\Practice\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\All resource\C#\Practice\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\All resource\C#\Practice\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\All resource\C#\Practice\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
